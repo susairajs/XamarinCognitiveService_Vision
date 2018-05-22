@@ -1,0 +1,2 @@
+D:\VS2017_Projects\XamarinComputerVision\XamarinComputerVision\XamarinComputerVision.UWP\XamarinComputerVision.UWP.csproj;x86
+D:\VS2017_Projects\XamarinComputerVision\XamarinComputerVision\XamarinComputerVision\XamarinComputerVision.csproj;neutral
